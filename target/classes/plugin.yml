@@ -1,0 +1,7 @@
+name: MortisCitations
+version: '1.0'
+main: me.none030.mortiscitations.MortisCitations
+api-version: 1.13
+commands:
+  citations:
+

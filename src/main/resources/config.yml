@@ -1,0 +1,14 @@
+citation:
+  execution: CHAT #Either "CHAT" or "TITLE"
+  delay: 200 #in ticks | 20 Ticks = 1 Second
+  citations:
+    CITATION1:
+     - "§6-------------------------"
+     - "    §eMortis Citations"
+     - "   §eCredits: None_123"
+     - "§6-------------------------"
+    CREDITS2:
+      - "§6-------------------------"
+      - "    §eMortis Citations"
+      - "   §eCredits: ADM8"
+      - "§6-------------------------"
